@@ -28,3 +28,5 @@ flutter:
     - assets/loading.png
     - assets/ripe.png
     - assets/not_ripe.png
+    - assets/overripe.png
+    - assets/error.png

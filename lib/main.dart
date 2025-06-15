@@ -357,7 +357,7 @@ class _CameraScreenState extends State<CameraScreen> {
           color: Colors.red,
           message: 'Error!',
           subMessage: _ripenessResult,
-          imagePath: 'assets/error_icon.png', // Necesitas crear esta imagen
+          imagePath: 'assets/error.png', // Necesitas crear esta imagen
         );
     }
   }
