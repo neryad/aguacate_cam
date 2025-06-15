@@ -30,3 +30,5 @@ flutter:
     - assets/not_ripe.png
     - assets/overripe.png
     - assets/error.png
+    - assets/avocado_outline.png
+    - assets/avocado_placeholder.png
