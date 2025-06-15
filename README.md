@@ -59,7 +59,7 @@ Aguacate Cam is a Flutter application that helps you check the ripeness of avoca
 
 Watch the full YouTube video on how this app was made:
 
-[![Aguacate Cam - YouTube Tutorial](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Aguacate Cam - YouTube Tutorial](https://youtu.be/Q-mQXWHRxYs)
 
 ## Contributing
 
