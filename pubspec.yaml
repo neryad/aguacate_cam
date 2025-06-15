@@ -1,0 +1,30 @@
+name: aguacate_cam
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+9 # Para acceder a la cámara
+  path_provider: ^2.1.1 # Para guardar la imagen temporalmente
+  path: ^1.8.3 # Para manejar rutas de archivos
+  http: ^1.1.0 # Para hacer solicitudes HTTP a la API de Gemini
+  image: ^4.1.3 # Para procesar la imagen antes de enviarla si es necesario
+  google_generative_ai: ^0.2.0 # El SDK oficial de Gemini para Flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/loading.png
+    - assets/ripe.png
+    - assets/not_ripe.png
